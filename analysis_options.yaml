@@ -1,0 +1,12 @@
+include: package:lint/analysis_options.yaml
+
+linter:
+  rules:
+    argument_type_not_assignable: false
+    field_initializer_not_assignable: false
+
+analyzer:
+  errors:
+    argument_type_not_assignable: ignore
+    field_initializer_not_assignable: ignore
+    invalid_assignment: ignore

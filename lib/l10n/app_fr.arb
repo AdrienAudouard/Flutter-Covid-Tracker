@@ -1,0 +1,95 @@
+{
+  "bottomNavigationBarCovid": "Covid",
+  "bottomNavigationBarVaccin": "Vaccin",
+  "bottomNavigationBarDepartements": "Departements",
+  "pageCovidTitle": "En France",
+  "pageCovidLatestNews": "Dernières infos",
+  "pageCovidUpdatedThe": "Mise à jour le {date}",
+  "@pageCovidUpdatedThe": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "pageCovidEvolution": "Evolution",
+  "pageCovidPositiveCases": "Cas positifs",
+  "pageCovidGraphLegend": "Les derniers chiffres remontés indiquent {date} tests positifs",
+  "@pageCovidGraphLegend": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "pageCovidRea": "Réanimation",
+  "pageCovidReaActual": "Il y'a actuellement {count} personnes en réanimation.",
+  "@pageCovidReaActual": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "pageCovidIncidence": "Taux d'incidence",
+  "pageCovidSinceLastWeek": "Depuis la semaine dernière",
+  "pageCovidPositives": "Positifs",
+  "pageCovidHospital": "Hospitalisation",
+  "pageCovidDeaths": "Deces",
+  "pageCovidSaturation": "Saturation réanimation",
+  "pageCovidPositivity": "Positivité",
+  "pageCovidReproduction": "Reproduction",
+  "pageCovidPositiveThisWeek": "Nombre de cas cette semaine pour 100k habitants",
+  "pageVaccineTitle": "Vaccination en France",
+  "pageVaccineFirstDose": "Premières doses injectées",
+  "pageVaccineAllDoses": "Personnes vaccinées",
+  "pageVaccineTotalAllDose": "{total} personnes vaccinées",
+  "@pageVaccineTotalAllDose": {
+    "placeholders": {
+      "total": {}
+    }
+  },
+  "pageVaccineTotalAllDoseExplanation": "Nombre cumulé de personnes ayant reçu toutes les doses de vaccin (1, 2 ou 3 en fonction des vaccins et des personnes).",
+  "pageVaccineTotalAllDose24h": "+{count} personnes vaccinées en 24h",
+  "@pageVaccineTotalAllDose24h": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "pageVaccineTotalAllDosePercent": "Actuellement {total}% des français sont vaccinées.",
+  "@pageVaccineTotalAllDosePercent": {
+    "placeholders": {
+      "total": {}
+    }
+  },
+  "pageVaccine7DaysAverage": "Moyenne sur les 7 derniers jours: +{average}",
+  "@pageVaccine7DaysAverage": {
+    "placeholders": {
+      "average": {}
+    }
+  },
+  "pageVaccineTotalFirstDoseLast24h": "+{count} premières doses injectées en 24h",
+  "@pageVaccineTotalFirstDoseLast24h": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "pageVaccineTotalFirstDose": "{total} premières doses injectées",
+  "@pageVaccineTotalFirstDose": {
+    "placeholders": {
+      "total": {}
+    }
+  },
+  "pageVaccineTotalFirstDoseExplanation": "Nombre cumulé de personnes ayant reçu au moins une dose de vaccin.",
+  "pageVaccineTotalFirstDosePercent": "Actuellement {percent}% des français ont reçu une première dose du vaccin.",
+  "@pageVaccineTotalFirstDosePercent": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+  "pageDepartementVariantUk": "UK",
+  "pageDepartementVariantBz": "BZ + SA",
+  "pageDepartementVariantOther": "Autre",
+  "pageDepartementVariantRepartition": "Repartion des variants",
+  "pageDepartementHospitalTension": "Tension hospitalière: ",
+  "pageDepartementHospitalTensionDisclaimer": "Si supérieur à 100%, alors les patients Covid19 occupent plus de lits de réanimation qu'il n'y en avait avant l'épidémie.",
+  "pageDepartementData": "Chiffres",
+  "pageDepartementInsidence": "Taux d'incidence: ",
+  "pageDepartementInsidenceExplanation": "Nombre de cas sur 7 jours pour 100k habitants.",
+  "pageDepartementPositivity": "Positivité: ",
+  "pageDepartementPositivityExplanation": "Proportion de tests positifs dans l'ensemble des tests. Un chiffre bas peut être dû à une faible circulation du virus ou à un testing massif."
+}
